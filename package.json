@@ -1,0 +1,23 @@
+{
+  "name": "nuxtjs-firebase-practice",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt"
+  },
+  "version": "1.0.0",
+  "description": "[Nuxt.jsとFirebaseを使って爆速で何か作る前に読む本](https://booth.pm/ja/items/1994329)を参考にゴニョゴニョする",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomayumax/nuxtjs-firebase-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gomayumax/nuxtjs-firebase-practice/issues"
+  },
+  "homepage": "https://github.com/gomayumax/nuxtjs-firebase-practice#readme",
+  "dependencies": {
+    "nuxt": "^2.14.0"
+  }
+}
